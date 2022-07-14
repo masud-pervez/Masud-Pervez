@@ -19,12 +19,8 @@ I'm Masud, a Full Stack Web Application Developer from <img src="./Assest/bangla
 <br/>
 
 ### Backend
-[![php Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#) 
-[![Python Badge](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#) 
-[![node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) 
 [![node Badge](https://img.shields.io/badge/mysql-2F3AB2?style=for-the-badge&logo=mysql&logoColor=white)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-00FF80?style=for-the-badge&logo=MongoDB&logoColor=white)](#) 
-
 
 <br>
 
