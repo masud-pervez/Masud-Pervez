@@ -31,8 +31,7 @@ Hi, I'm Masud Pervez <img src="./Assest/bangladesh.png" width="18"/> , a web dev
 
 [![Brave Badge](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](#) [![Google Badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](#)
 
-<details>
-<summary>You wanna know more about me?</summary>
+
 
 ## Total Remarks
 
@@ -42,5 +41,3 @@ Hi, I'm Masud Pervez <img src="./Assest/bangladesh.png" width="18"/> , a web dev
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Masud-Pervez.Masud-Pervez)
 ![visitors](https://img.shields.io/github/followers/{Masud-Pervez}.svg?style=social&label=Follow&maxAge=2592000)
-
-</details>
