@@ -1,18 +1,17 @@
-<!-- ![Github Banner](./Assest/Github-banner.jpg) -->
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=masud-pervez&&show_icons=true&theme=tokyonight&count_private=true" alt="Masud's Github Stats"/>
 
 ## Masud Pervez
 
 #### Software Developer | Competitive Programmer
 
-`Coding the future, one commit at a time!`
+`Crafting the Future, One Commit at a Time!`
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/masud-pervez-71792b223/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:masudpervez431@gmail.com?subject=From%20GitHub&&body=Hi)[![website Badge](https://img.shields.io/badge/%20-Web%20Site-black?color=222244&labelColor=000000&logo=Me&logoColor=f5f7fe)](https://masudpervez.netlify.app/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:masudpervez431@gmail.com?subject=From%20GitHub&&body=Hi) [![website Badge](https://img.shields.io/badge/%20-Web%20Site-black?color=222244&labelColor=000000&logo=About.me&logoColor=f5f7fe)](https://masudpervez.netlify.app/)
 
 ### Tech Stacks I've worked with
 
-_I'm working **full-stack**, but heavily focused on **Frontend** & **DevOps**_
+_I'm working **full-stack**, but heavily focused on **Frontend**_
 
 ```yaml
 Actively working with:
