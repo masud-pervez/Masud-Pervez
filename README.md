@@ -32,4 +32,4 @@ Actively working with:
     - Docker
 ```
 
-_Keep up the good work with your coding!!_
+_Keep up the good work with your coding! 👋️_
