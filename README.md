@@ -2,7 +2,7 @@
 
 ## Masud Pervez
 
-#### Software Developer | Competitive Programmer
+### Software Developer | Competitive Programmer
 
 `Crafting the Future, One Commit at a Time!`
 
