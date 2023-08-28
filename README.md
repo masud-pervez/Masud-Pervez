@@ -2,7 +2,7 @@
 
 ## Masud Pervez
 
-### Software Developer | Competitive Programmer
+### I am a software developer and competitive programmer.
 
 `Crafting the Future, One Commit at a Time!`
 
@@ -21,7 +21,7 @@ Actively working with:
     - HTML, CSS3, SCSS, Tailwind CSS, Emotion, Styled Components, Framer-Motion
     - React.js, Next.js, React Native
     - Redux, React-Query, Formik, React Hook Form, Zod
-    - Bootsatrap, Material UI, Vuetify, Ant Design, Chakra-UI, Radix-UI, Storybook
+    - Bootstrap, Material UI, Vuetify, Ant Design, Chakra-UI, Radix-UI, Storybook
   Backend:
     - Node.js, Express.js, Nest.js
     - REST API
@@ -32,4 +32,4 @@ Actively working with:
     - Docker
 ```
 
-_Happy coding!_
+_Keep up the good work with your coding!!_
