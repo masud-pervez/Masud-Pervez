@@ -6,7 +6,7 @@
 
 ## 🌐️ Github
 
-### 🔓️=> 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
+### 🔓️=> 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
 
 ## 📃️ Pgadmin
 
