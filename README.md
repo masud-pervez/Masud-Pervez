@@ -2,7 +2,7 @@
 
 ## Masud Pervez
 
-### I am a software developer and competitive programmer.
+### I am a Web developer.
 
 `Crafting the Future, One Commit at a Time!`
 
