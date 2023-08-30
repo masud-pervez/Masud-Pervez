@@ -19,7 +19,7 @@ Actively working with:
     - JavaScript, TypeScript
   Frontend:
     - HTML, CSS3, SCSS, Tailwind CSS, Emotion, Styled Components, Framer-Motion
-    - React.js, Next.js, React Native
+    - React.js, Next.js, React Native, Three.js
     - Redux, React-Query, Formik, React Hook Form, Zod
     - Bootstrap, Material UI, Vuetify, Ant Design, Chakra-UI, Radix-UI, Storybook
   Backend:
