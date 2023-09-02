@@ -13,7 +13,7 @@
 
 _I'm working **full-stack**, but heavily focused on **Frontend**_
 
-```yaml
+``yaml
 Actively working with:
   Languages:
     - JavaScript, TypeScript
@@ -30,7 +30,7 @@ Actively working with:
   Deployment:
     - Git, Github, GitLab, Bitbucket
     - Docker
-```
+``
 - 🔭 <b>I’m currently working on</b> portfolio-website **↑**
 - 🌱 <b>I’m currently learning</b> Three.js
 
