@@ -33,7 +33,7 @@ Actively working with:
     - PostgreSQL, MySQL, MongoDB
   Deployment:
     - Git, Github, GitLab, Bitbucket
-    - DockerSET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+    - Docker
 ```
 - 🔭 <b>I’m currently working on</b> portfolio-website **↑**
 - 🌱 <b>I’m currently learning</b> Three.js
