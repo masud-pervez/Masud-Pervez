@@ -35,7 +35,7 @@ Actively working with:
     - Git, Github, GitLab, Bitbucket
     - Docker
 ```
-- 🔭 <b>I’m currently working on</b> Ecommerce Website **↑**
+## - 🔭 <b>I’m currently working on</b> Ecommerce Website **↑**
 ## - 🌱 <b>I’m currently learning</b> Three.js
 
 
