@@ -36,7 +36,7 @@ Actively working with:
     - Docker
 ```
 - 🔭 <b>I’m currently working on</b> Ecommerce Website **↑**
-- 🌱 <b>I’m currently learning</b> Three.js
+## - 🌱 <b>I’m currently learning</b> Three.js
 
 
 _Keep up the good work with your coding! 👋️_
