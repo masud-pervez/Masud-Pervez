@@ -17,8 +17,6 @@
 ### Tech Stacks I've worked with
 
 
-
-
 _I'm working **full-stack**, but heavily focused on **Frontend**_
 
 ```yaml
