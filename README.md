@@ -37,8 +37,14 @@ Actively working with:
     - Git, Github, GitLab, Bitbucket
     - Docker
 ```
-## - 🔭 <b>I’m currently working on</b> Ecommerce Website **↑**
-## - 🌱 <b>I’m currently learning</b> Three.js
+
+- 👋 Hi, I’m @masud-pervez
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Framer Motion.
+- 💞️ I’m looking to collaborate with Bongo Chat
+- 📫 How to reach me ...
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 
 _Keep up the good work with your coding! 👋️_
