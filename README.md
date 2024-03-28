@@ -37,7 +37,7 @@ Actively working with:
     - Git, Github, GitLab, Bitbucket
     - Docker
   Tools:
-    - VsCode,Postman
+    - VsCode, Postman
 ``` 
 
 - 👋 Hi, I’m @masud-pervez
