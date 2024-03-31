@@ -2,7 +2,7 @@
 
 ## Masud Pervez
 
-### I am a Web developer.
+### I am a Web Developer.
 
 
 
