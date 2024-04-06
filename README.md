@@ -25,7 +25,7 @@ _I'm working **full-stack**, but heavily focused on **Frontend**_
 ```yaml
 Actively working with:
   Languages:
-    - JavaScript, TypeScript
+    - JavaScript, TypeScript, Python
   Frontend:
     - HTML, CSS3, SCSS, Tailwind CSS, Emotion, Styled Components, Framer-Motion
     - React.js, Next.js, React Native, Three.js
