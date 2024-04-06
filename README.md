@@ -31,6 +31,7 @@ Actively working with:
     - React.js, Next.js, React Native, Three.js
     - Redux, React-Query, Formik, React Hook Form, Zod
     - Bootstrap, Material UI, Vuetify, Ant Design, Chakra-UI, Radix-UI, Storybook
+    - Aceternity, Mantine, Shadcn UI, Material Tailwind 
   Backend:
     - Node.js, Express.js, Nest.js
     - REST API
