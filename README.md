@@ -17,7 +17,6 @@
 
 
 
-
 _I'm working **full-stack**, but heavily focused on **Frontend**_
 
 ```yaml
